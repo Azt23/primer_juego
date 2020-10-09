@@ -1,2 +1,1 @@
-# primer_juego
- mi primer juego
+# Practica sobre Javascript
